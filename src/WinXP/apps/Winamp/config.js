@@ -4,6 +4,16 @@ const album = 'Every future time was better';
 
 export const initialTracks = [
   {
+    url:
+      'https://archive.org/download/ta-0-75-con-azop/Ta0-75%20con%20Azop.mp3',
+    duration: 7046.24,
+    metaData: {
+      title: 'Ta0_76_Azop',
+      artist: 'Tendiendo a 0',
+      album,
+    },
+  },
+  {
     url: 'https://archive.org/download/ta-0-76/Ta0-76.mp3',
     duration: 7106.19,
     metaData: {
