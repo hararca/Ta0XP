@@ -8,7 +8,7 @@ export const initialTracks = [
       'https://archive.org/download/ta-0-75-con-azop/Ta0-75%20con%20Azop.mp3',
     duration: 7046.24,
     metaData: {
-      title: 'Ta0_76_Azop',
+      title: 'Ta0_75_Azop',
       artist: 'Tendiendo a 0',
       album,
     },
