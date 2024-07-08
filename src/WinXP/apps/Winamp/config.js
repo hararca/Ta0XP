@@ -5,6 +5,16 @@ const album = 'Every future time was better';
 export const initialTracks = [
   {
     url:
+      'https://archive.org/download/ta-0-74-con-parautas/Ta0-74%20con%20Parautas.mp3',
+    duration: 7045.9,
+    metaData: {
+      title: 'Ta0_74_Parautas',
+      artist: 'Tendiendo a 0',
+      album,
+    },
+  },
+  {
+    url:
       'https://archive.org/download/ta-0-75-con-azop/Ta0-75%20con%20Azop.mp3',
     duration: 7046.24,
     metaData: {
