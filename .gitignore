@@ -10,6 +10,7 @@
 
 # production
 /build
+/ta0xp
 
 # misc
 .DS_Store
