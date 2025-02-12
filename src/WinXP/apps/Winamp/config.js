@@ -5,6 +5,26 @@ const album = 'Every future time was better';
 export const initialTracks = [
   {
     url:
+      'https://archive.org/download/ta-0-72-con-plnk/Ta0-72%20con%20PLNK.mp3',
+    duration: 7081.96,
+    metaData: {
+      title: 'ta-0-72-con-PLNK',
+      artist: 'Tendiendo a 0',
+      album,
+    },
+  },
+  {
+    url:
+      'https://archive.org/download/ta-0-73-con-gordon-blue/Ta0-73%20con%20Gordon%20Blue.mp3',
+    duration: 7055.78,
+    metaData: {
+      title: 'Ta0_73_Gordon_BLue',
+      artist: 'Tendiendo a 0',
+      album,
+    },
+  },
+  {
+    url:
       'https://archive.org/download/ta-0-74-con-parautas/Ta0-74%20con%20Parautas.mp3',
     duration: 7045.9,
     metaData: {
