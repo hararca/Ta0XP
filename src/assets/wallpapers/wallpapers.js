@@ -28,4 +28,12 @@ export const wallpapers = [
     id: 6,
     src: 'assets/wallpapers/fondos_ta0XP_4.jpg',
   },
+  {
+    id: 7,
+    src: 'assets/wallpapers/fondos_ta0XP_5.jpg',
+  },
+  {
+    id: 8,
+    src: 'assets/wallpapers/fondos_ta0XP_6.jpg',
+  },
 ];
