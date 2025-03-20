@@ -5,6 +5,16 @@ const album = 'Every future time was better';
 export const initialTracks = [
   {
     url:
+      'https://archive.org/download/ta0-71/ta0-71_fucking_shit_show.mp3',
+    duration: 6985.01,
+    metaData: {
+      title: 'ta-0-71-con-Fucking-Shit-Show',
+      artist: 'Tendiendo a 0',
+      album,
+    },
+  },
+  {
+    url:
       'https://archive.org/download/ta-0-72-con-plnk/Ta0-72%20con%20PLNK.mp3',
     duration: 7081.96,
     metaData: {
