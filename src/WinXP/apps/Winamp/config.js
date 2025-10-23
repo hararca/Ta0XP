@@ -4,6 +4,16 @@ const album = 'Every future time was better';
 
 export const initialTracks = [
   {
+    url:
+      'https://archive.org/download/ta-0-69-con-dimension-kaktus-cartucho/Ta0-69%20con%20Dimension%20Kaktus%20%2B%20Cartucho.mp3',
+    duration: 6898.82,
+    metaData: {
+      title: 'ta0-69-con.Dimension-Kaktus-+-Cartucho',
+      artist: 'Tendiendo a 0',
+      album,
+    },
+  },
+  {
     url: 'https://archive.org/download/ta0-70-rachael/Ta0-70_Rachael.mp3',
     duration: 7130.5,
     metaData: {
