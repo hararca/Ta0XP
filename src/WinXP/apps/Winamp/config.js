@@ -5,6 +5,16 @@ const album = 'Every future time was better';
 export const initialTracks = [
   {
     url:
+      'https://archive.org/download/ta-0-68-con-pepino-tula/Ta0-68%20con%20Pepin%CC%83o%20Tula.mp3',
+    duration: 7171.17,
+    metaData: {
+      title: 'Ta0-68_con_Pepiño_Tula',
+      artist: 'Tendiendo a 0',
+      album,
+    },
+  },
+  {
+    url:
       'https://archive.org/download/ta-0-69-con-dimension-kaktus-cartucho/Ta0-69%20con%20Dimension%20Kaktus%20%2B%20Cartucho.mp3',
     duration: 6898.82,
     metaData: {
