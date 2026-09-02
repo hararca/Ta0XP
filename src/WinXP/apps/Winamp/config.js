@@ -8,7 +8,7 @@ export const initialTracks = [
       'https://archive.org/download/ta-0-66-con-leidilei/Ta0-66%20con%20Leidilei.mp3',
     duration: 6984.5,
     metaData: {
-      title: 'Ta0-67_con_Leidilei',
+      title: 'Ta0-66_con_Leidilei',
       artist: 'Tendiendo a 0',
       album,
     },
