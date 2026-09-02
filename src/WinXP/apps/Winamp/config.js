@@ -5,6 +5,25 @@ const album = 'Every future time was better';
 export const initialTracks = [
   {
     url:
+      'https://archive.org/download/ta-0-66-con-leidilei/Ta0-66%20con%20Leidilei.mp3',
+    duration: 6984.5,
+    metaData: {
+      title: 'Ta0-67_con_Leidilei',
+      artist: 'Tendiendo a 0',
+      album,
+    },
+  },
+  {
+    url: 'https://archive.org/download/ta-0-67-con-rea/Ta0-67%20con%20Rea.mp3',
+    duration: 7067.283,
+    metaData: {
+      title: 'Ta0-67_con_Rea',
+      artist: 'Tendiendo a 0',
+      album,
+    },
+  },
+  {
+    url:
       'https://archive.org/download/ta-0-68-con-pepino-tula/Ta0-68%20con%20Pepin%CC%83o%20Tula.mp3',
     duration: 7171.17,
     metaData: {
