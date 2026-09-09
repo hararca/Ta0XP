@@ -5,6 +5,16 @@ const album = 'Every future time was better';
 export const initialTracks = [
   {
     url:
+      'https://archive.org/download/ta-0-65-con-angel-novcad_202609/Ta0-65%20con%20A%CC%81ngel%20Novcad.mp3',
+    duration: 6958.58,
+    metaData: {
+      title: 'Ta0-65_con_angel-novcad',
+      artist: 'Tendiendo a 0',
+      album,
+    },
+  },
+  {
+    url:
       'https://archive.org/download/ta-0-66-con-leidilei/Ta0-66%20con%20Leidilei.mp3',
     duration: 6984.5,
     metaData: {
